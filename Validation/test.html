@@ -153,6 +153,7 @@
                     </div>
                     <div>
                         <input class="submit" type="submit" id="sub" onclick="disable(), enable(), disable_char(), addCookie()">
+                      
                 </form>
             </div>
         </fieldset>
@@ -186,6 +187,7 @@
     }
 
 
+
     function disable_char() {
 
         document.onkeydown = function (e) {
@@ -202,6 +204,8 @@
         var number2 = document.getElementById('number').value
         localStorage.setItem('Email', email2)
         localStorage.setItem('phone number', number2)
+
+        window.open("dashboard.html");
     }
 
 
