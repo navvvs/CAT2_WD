@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="form.xsl"?>
+<CHRIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="form.xsd">
+  <COMPUTER-SCIENCE>
+    <STU-NAME>Navin</STU-NAME>
+    <STU-UNIVERSITY>Christ university</STU-UNIVERSITY>
+    <STU-PHONE>7592818429</STU-PHONE>
+    <STU-EMAIL>navinknaresh@christuniversity.in</STU-EMAIL>
+  </COMPUTER-SCIENCE>
+  <COMPUTER-SCIENCE>
+    <STU-NAME>Bubloo</STU-NAME>
+    <STU-UNIVERSITY>Christ university</STU-UNIVERSITY>
+    <STU-PHONE>7592776429</STU-PHONE>
+    <STU-EMAIL>bubbbs@christuniversity.in</STU-EMAIL>
+  </COMPUTER-SCIENCE>
+  <COMPUTER-SCIENCE>
+    <STU-NAME>Ankitha</STU-NAME>
+    <STU-UNIVERSITY>Christ university</STU-UNIVERSITY>
+    <STU-PHONE>9987454637</STU-PHONE>
+    <STU-EMAIL>ankuuuuu@christuniversity.in</STU-EMAIL>
+  </COMPUTER-SCIENCE>
+</CHRIST>
